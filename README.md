@@ -104,8 +104,8 @@ The Prometheus instance should be accessible at http://localhost:9090, and it sh
 ## Submitting the solution
 Once you have pushed your progress,
 
-- Add `anju-infracloud` as collaborators to the repository.
-- Reply to the email with link to your repository / send an email to `anju [at] infracloud [dot] io`.
+- Add `prateekagarwal9` as collaborators to the repository.
+- Reply to the email with link to your repository / send an email to `prateek [at] kainskep [dot] com`.
 
 ---
 
